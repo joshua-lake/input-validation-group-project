@@ -1,8 +1,13 @@
 import React from 'react'
+import Validation from './Validation'
+import Input from './Input'
 
 const App = () => {
   return (
-    <div>Up and running !</div>
+    <div>
+      <Validation/>
+      <Input/>
+    </div>
   )
 }
 
