@@ -3,7 +3,7 @@ import React from 'react'
 function Validation () {
   return (
     <div>
-      Validation component
+      <h1>Team Kraken&apos;s Validation component</h1>
     </div>
   )
 }
