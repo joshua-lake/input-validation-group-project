@@ -6,7 +6,7 @@ function Validation () {
   console.log(validateEmail('josh@joshiscool.com'))
   return (
     <div>
-      Validation component
+      <h1>Team Kraken&apos;s Validation component</h1>
     </div>
   )
 }
