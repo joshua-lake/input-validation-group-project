@@ -1,8 +1,10 @@
 import React from 'react'
 
+import Toggle from './Test'
+
 const App = () => {
   return (
-    <div>Up and running !</div>
+    <Toggle />
   )
 }
 

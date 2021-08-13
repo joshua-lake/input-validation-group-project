@@ -13,8 +13,10 @@
     "lint": "eslint --ext .js,.jsx ."
   },
   "dependencies": {
+    "@xstate/react": "^1.5.1",
     "express": "^4.17.1",
-    "superagent": "^6.1.0"
+    "superagent": "^6.1.0",
+    "xstate": "^4.23.1"
   },
   "eslintConfig": {
     "extends": "eda",
@@ -31,7 +33,6 @@
       "@babel/plugin-proposal-class-properties",
       "@babel/plugin-proposal-object-rest-spread",
       "@babel/plugin-transform-runtime"
-
     ]
   },
   "devDependencies": {
